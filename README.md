@@ -1,2 +1,7 @@
-# wp-stateless-wpbakery-page-builder-addon
-WP-Stateless - WPBakery Page Builder Addon
+# WP-Stateless - WPBakery Page Builder Addon
+
+Provides compatibility between WPBakery Page Builder and WP-Stateless plugins.
+
+### Development
+
+Run tests: `composer test`
