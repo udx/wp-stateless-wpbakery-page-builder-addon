@@ -3,7 +3,7 @@
         'name' => 'udx/wp-stateless-wpbakery-page-builder-addon',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'de9b52774a65320bebfa59d04788011b4ac8cef2',
+        'reference' => '7369d36c21ccbee8a5c6bc5633b9c466b2d05b01',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -319,7 +319,7 @@
         'udx/wp-stateless-wpbakery-page-builder-addon' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'de9b52774a65320bebfa59d04788011b4ac8cef2',
+            'reference' => '7369d36c21ccbee8a5c6bc5633b9c466b2d05b01',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
