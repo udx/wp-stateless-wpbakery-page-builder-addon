@@ -1,5 +1,9 @@
 <?php
 
+namespace {
+  define('ABSPATH', '/var/www/');
+}
+
 namespace wpCloud\StatelessMedia {
   class Compatibility {
     public $enabled = true;

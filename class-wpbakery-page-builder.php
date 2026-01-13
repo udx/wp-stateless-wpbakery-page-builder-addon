@@ -11,6 +11,9 @@ namespace WPSL\WPBakeryPageBuilder;
 
 use wpCloud\StatelessMedia\Compatibility;
 
+// Exit if accessed directly.
+defined( 'ABSPATH' ) || exit;
+
 class WPBakeryPageBuilder extends Compatibility {
   protected $id = 'wp-bakery-page-builder';
   protected $title = 'WPBakery Page Builder';

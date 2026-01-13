@@ -8,8 +8,7 @@ Provides compatibility between the [WPBakery Page Builder](http://vc.wpbakery.co
 
 ### Notes
 
-* Tested with WPBakery Page Builder plugin version 5.3
-* Plugin publisher did not respond to our requests to provide newer version for tests
+* Tested with WPBakery Page Builder plugin version 7.5
 
 ### Support, Feedback, & Contribute
 
