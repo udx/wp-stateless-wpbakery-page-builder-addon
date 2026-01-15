@@ -1,11 +1,11 @@
 === WP-Stateless - WPBakery Page Builder Addon ===
-Contributors: usability_dynamics, andypotanin, ideric, maxim.peshkov, planvova, obolgun
+Contributors: usability_dynamics, andypotanin, ideric, planvova, obolgun
 Donate link: https://udx.io
-Tags: wpbakery, composer, visual composer, editor, google, google cloud, google cloud storage, cdn, uploads, media, stateless, backup
+Tags: wpbakery page builder, wpbakery addon extension, google cloud storage, stateless, wp-stateless
 License: GPLv2 or later
 Requires PHP: 8.0
 Requires at least: 5.0
-Tested up to: 6.4.1
+Tested up to: 6.9
 Stable tag: 0.0.1
 
 Provides compatibility between the WPBakery Page Builder and the WP-Stateless plugins.
@@ -20,8 +20,7 @@ Provides compatibility between the [WPBakery Page Builder](http://vc.wpbakery.co
 
 = Notes =
 
-* Tested with WPBakery Page Builder plugin version 5.3
-* Plugin publisher did not respond to our requests to provide newer version for tests
+* Tested with WPBakery Page Builder plugin version 7.5
 
 = Support, Feedback, & Contribute =
 
