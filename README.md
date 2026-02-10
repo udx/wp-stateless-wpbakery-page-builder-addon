@@ -1,4 +1,4 @@
-# WP-Stateless - WPBakery Page Builder Addon
+# WP-Stateless for WPBakery Page Builder
 
 Provides compatibility between the [WPBakery Page Builder](http://vc.wpbakery.com/) and the [WP-Stateless](https://wordpress.org/plugins/wp-stateless/) plugins.
 
@@ -12,14 +12,14 @@ Provides compatibility between the [WPBakery Page Builder](http://vc.wpbakery.co
 
 ### Support, Feedback, & Contribute
 
-We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-wpbakery-page-builder-addon).
+We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-wpbakery-page-builder).
 
 ### Frequently Asked Questions
 
 <details>
 <summary>Where can I submit feature requests or bug reports?</summary>
 
-We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-wpbakery-page-builder-addon/issues).
+We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-wpbakery-page-builder/issues).
 </details>
 
 <details>

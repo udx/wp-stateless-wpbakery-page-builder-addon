@@ -7,7 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInitc62bf5de72a5a926b5ad608e1d780a67
 {
     public static $files = array (
-        '4cfe0854ed3a5e9d046b7251abd7e6b5' => __DIR__ . '/../..' . '/class-wpbakery-page-builder.php',
+        'f736c9689498e5d1ac64ee4006935372' => __DIR__ . '/../..' . '/class-wpbakery-page-builder.php',
     );
 
     public static $classMap = array (
