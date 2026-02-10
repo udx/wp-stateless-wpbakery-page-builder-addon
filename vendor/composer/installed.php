@@ -3,7 +3,7 @@
         'name' => 'udx/wp-stateless-wpbakery-page-builder',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'e9a62e9dceb6d3d571ea7afc79928c993fce389b',
+        'reference' => '814d324184e155b9c4864d53243703b86490290d',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'udx/wp-stateless-wpbakery-page-builder' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'e9a62e9dceb6d3d571ea7afc79928c993fce389b',
+            'reference' => '814d324184e155b9c4864d53243703b86490290d',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
