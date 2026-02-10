@@ -1,5 +1,5 @@
 {
-  "name": "udx/wp-stateless-wpbakery-page-builder-addon",
+  "name": "udx/wp-stateless-wpbakery-page-builder",
   "description": "Ensures compatibility with WPBakery Page Builder",
   "type": "wordpress-plugin",
   "license": "MIT",

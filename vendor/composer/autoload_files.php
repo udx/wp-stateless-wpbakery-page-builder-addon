@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    '4cfe0854ed3a5e9d046b7251abd7e6b5' => $baseDir . '/class-wpbakery-page-builder.php',
+    'f736c9689498e5d1ac64ee4006935372' => $baseDir . '/class-wpbakery-page-builder.php',
 );
