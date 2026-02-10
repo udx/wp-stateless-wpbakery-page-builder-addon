@@ -1,4 +1,4 @@
-=== WP-Stateless - WPBakery Page Builder Addon ===
+=== WP-Stateless for WPBakery Page Builder ===
 Contributors: usability_dynamics, andypotanin, ideric, planvova, obolgun
 Donate link: https://udx.io
 Tags: wpbakery page builder, wpbakery addon extension, google cloud storage, stateless, wp-stateless
@@ -24,13 +24,13 @@ Provides compatibility between the [WPBakery Page Builder](http://vc.wpbakery.co
 
 = Support, Feedback, & Contribute =
 
-We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-wpbakery-page-builder-addon).
+We welcome community involvement via the [GitHub repository](https://github.com/udx/wp-stateless-wpbakery-page-builder).
 
 == Frequently Asked Questions ==
 
 = Where can I submit feature requests or bug reports? =
 
-We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-wpbakery-page-builder-addon/issues).
+We encourage community feedback and discussion through issues on the [GitHub repository](https://github.com/udx/wp-stateless-wpbakery-page-builder/issues).
 
 = Can I test new features before they are released? =
 
